@@ -1,0 +1,22 @@
+{
+  "name": "cordova-filechooser",
+  "version": "1.0.0",
+  "description": "Cordova Plugin that supplies a File Chooser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdkcarlos/cordova-filechooser.git"
+  },
+  "keywords": [
+    "filechooser"
+  ],
+  "author": "Our Code World",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdkcarlos/cordova-ourcodeworld-sftpplugin/issues"
+  },
+  "homepage": "https://github.com/sdkcarlos/cordova-ourcodeworld-sftpplugin#readme"
+}
